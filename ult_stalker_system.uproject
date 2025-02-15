@@ -8,5 +8,10 @@
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor",
+		"LinuxNoEditor"
 	]
 }
