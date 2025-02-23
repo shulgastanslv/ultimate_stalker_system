@@ -13,9 +13,9 @@ This project is dedicated to the development of complex systems in the game Stal
 - Character Component
 
 
-<img src="./Saved/overview_1.png" alt="Overview 1" width="800"/>
+<img src="./Images/overview_1.png" alt="Overview 1" width="800"/>
 
-<img src="./Saved/overview_2.jpg" alt="Overview 2" width="800"/>
+<img src="./Images/overview_2.jpg" alt="Overview 2" width="800"/>
 
 
 
